@@ -153,7 +153,7 @@ aura_env.jewelcrafting = {
     -- weekly
     {name = "Treatise", quests = {74112}},
     {name = "Profession Trainer Quest", quests = {70563, 70565, 70564, 70562}, coords = "Valdrakken 40.81 61.12"},
-    {name = "Consortium Trade Quest", quests = {66516, 66950, 72428, 66949, 75362, 75602}, coords = "Valdrakken 36.84 62.95"},
+    {name = "Consortium Trade Quest", quests = {66516, 66950, 72428, 66949, 75362, 75602, 77912}, coords = "Valdrakken 36.84 62.95"},
     {name = "Work Orders Quest", quests = {70593}, coords = "Valdrakken 35.37 58.79"},
     {name = "Emerald Dream Quest", quests = {77912}},
 
@@ -183,7 +183,7 @@ aura_env.leatherworking = {
     -- weekly
     {name = "Treatise", quests = {74113}},
     {name = "Profession Trainer Quest", quests = {70571, 70567, 70569, 70568}, coords = "Valdrakken 28.56 61.33"},
-    {name = "Consortium Trade Quest", quests = {66364, 66363, 72407, 66951, 66364, 75354, 75368}, coords = "Valdrakken 36.84 62.95"},
+    {name = "Consortium Trade Quest", quests = {66364, 66363, 72407, 66951, 66364, 75354, 75368, 77945}, coords = "Valdrakken 36.84 62.95"},
     {name = "Work Orders Quest", quests = {70594}, coords = "Valdrakken 35.37 58.79"},
     {name = "Emerald Dream Quest", quests = {77946}},
 
